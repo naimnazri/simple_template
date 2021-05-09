@@ -7,7 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <title>Welcome to Home Page</title>
+    <title>Welcome to Noob Page</title>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -39,13 +39,13 @@
         <div class="row mt-5">
             <div class="col text-center ">
                 <h1 class="font-weight-bold">Welcome to My Page</h1>
-            </div>            
+            </div>
         </div>
-        
+
         <div class="row mt-3">
             <div class="col text-center">
                 <h1>List of Features</h1>
-            </div>            
+            </div>
         </div>
 
         <div class="row m-5">
@@ -58,7 +58,7 @@
                         <div class="text-center">
                             <a href="crud/index.php" target="_blank" rel="noopener noreferrer" class="btn btn-light text-center">Click Here</a>
                         </div>
-                        
+
                     </div>
                 </div>
             </div>
